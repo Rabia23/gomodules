@@ -1,3 +1,3 @@
-module github.com/Rabia23/gomodules
+module github.com/Rabia23/gomodules/v2
 
 go 1.16
